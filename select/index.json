@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "鮮血の誓い",
+  "base_artist": "妖精帝國",
+  "createdAt": "2026-02-11T14:16:39.521837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鮮血の誓い",
+      "artist": "妖精帝國 (Yousei Teikoku)",
+      "has_synced": true,
+      "path": "select/01_鮮血の誓い_妖精帝國_(Yousei_Teikoku).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鮮血の誓い (off vocal)",
+      "artist": "妖精帝國 (Yousei Teikoku)",
+      "has_synced": true,
+      "path": "select/02_鮮血の誓い_(off_vocal)_妖精帝國_(Yousei_Teikoku).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Senketsu no Chikai (鮮血の誓い)",
+      "artist": "Yousei Teikoku (妖精帝國)",
+      "has_synced": true,
+      "path": "select/03_Senketsu_no_Chikai_(鮮血の誓い)_Yousei_Teikoku_(妖精帝國).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Senketsu no Chikai (鮮血の誓い) ＜off vocal＞",
+      "artist": "Yousei Teikoku (妖精帝國)",
+      "has_synced": true,
+      "path": "select/04_Senketsu_no_Chikai_(鮮血の誓い)__off_vocal_Yousei_Teikoku_(妖精帝國).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鮮血の誓い",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/05_鮮血の誓い_妖精帝國.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鮮血の誓い (off vocal)",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/06_鮮血の誓い_(off_vocal)_妖精帝國.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "鮮血の誓い",
+      "artist": "Yousei Teikoku",
+      "has_synced": true,
+      "path": "select/07_鮮血の誓い_Yousei_Teikoku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "鮮血の誓い <off vocal>",
+      "artist": "Yousei Teikoku",
+      "has_synced": true,
+      "path": "select/08_鮮血の誓い__off_vocal_Yousei_Teikoku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "鮮血の誓い",
+      "artist": "Yōsei Teikoku",
+      "has_synced": true,
+      "path": "select/09_鮮血の誓い_Yōsei_Teikoku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鮮血の誓い",
+      "artist": "妖精帝國",
+      "has_synced": false,
+      "path": "select/pl_01_鮮血の誓い_妖精帝國.txt"
+    }
+  ]
+}
